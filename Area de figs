@@ -1,7 +1,7 @@
 // Area de figuras
 //Brigada 01: Durán Rendón Santiago, Noriega Chiu Santiago, Ramírez Reyes José de Jesús
 //02-10-24
-/* Enunciado:  Se requiere calcular el área de diferentes formas geométricas: cuadrado, círculo, triángulo y rectángulo. El usuario debe escoger de un menÃº de opciones la figura a calcular.*/
+/* Enunciado:  Se requiere calcular el área de diferentes formas geométricas: cuadrado, círculo, triángulo y rectángulo. El usuario debe escoger de un menú de opciones la figura a calcular.*/
 /*Ejecución: 
  Seleccione la figura geométrica para calcular el área: 
  1. cuadrado
